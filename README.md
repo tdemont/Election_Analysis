@@ -18,10 +18,9 @@ The analysis of the election show that there were 369,711 votes cast in the elec
 
 ### County Data
 County Votes:
-
-    - Jefferson: 10.5% (38,855)
-    - Denver: 82.8% (306,055)
-    - Arapahoe: 6.7% (24,801)
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
 
 Denver county reflected the highest voter turnout by count, having the largest number (306,055) of active voters.
 
@@ -43,9 +42,9 @@ Candidates:
 Effectively, this script in its current status can be utilized in any elections moving forward.  That being said,
 additional modifications can be applied to increase its value.
 
-    - There is currently no script to determine % of voter turnout by county.  While total registered voter data exists, 
+- There is currently no script to determine % of voter turnout by county.  While total registered voter data exists, 
     it was not included in the dataset.  This data, when added, can reflect which counties have more active voter populations.  The script can then be
     amended to reflect the additional calculations.
     
-    - Seperately, the data set did not distinguish between ballot types.  With this additional data, the script can be updated to reflect the voting 
+- Seperately, the data set did not distinguish between ballot types.  With this additional data, the script can be updated to reflect the voting 
     behaviors of each county.  For example, we could know if Denver county constituents typicaly vote by mail-in or in-person ballot.
