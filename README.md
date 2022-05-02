@@ -39,3 +39,11 @@ Candidates:
 
 ## Summary
 ![](analysis/Print_Data.png)
+
+Effectively, this script in its current status can be utilized in any elections moving forward.  That being said,
+additional modifications can be applied to increase its value.
+    - There is currently no script to determine % of voter turnout by county.  While total registered voter data exists, 
+    it was not included in the dataset.  This data, when added, can reflect which counties have more active voter populations.  The script can then be
+    amended to reflect the additional calculations.
+    - Seperately, the data set did not distinguish between ballot types.  With this additional data, the script can be updated to reflect the voting 
+    behaviors of each county.  For example, we could know if Denver county constituents typicaly vote by mail-in or in-person ballot.
