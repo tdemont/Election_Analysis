@@ -37,6 +37,5 @@ Candidates:
 - The winner of the election was:
     - Diane DeGette, who received 73.8% of the total vote and 272,892 votes.
 
-![](analysis/Print_Data.png)
 ## Summary
-
+![](analysis/Print_Data.png)
